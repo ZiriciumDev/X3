@@ -1,0 +1,14 @@
+{
+	"geode": "5.0.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "ziriciumdev.x3",
+	"name": "X3",
+	"version": "v1.0.0",
+	"developer": "ZiriciumDev",
+	"description": "Wevew Compwete! :3"
+}
