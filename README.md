@@ -1,0 +1,1 @@
+This is a mod for geometry dash that changes all text to sound like a cat made it. I made this code (mostly) with AI, so I can't publish it. anyways, if you'd like the mod, there's a releases tab on the right.
